@@ -1,18 +1,19 @@
-### Wassup Guys, Myself Roni - aka [totaltechnology][website] 👋
+### Hi there, Myself Roni From [totaltechnology][youtube] 👋
 
-## Youtuber,content creator and Seeker!
-- 🔭 I’m currently working on a [Apache Cassandra Course][website]!
-- 🌱 Trying to learn new things everyday 🤣
+## I'm a Husband, Father, Developer, and Teacher!
+- 🔭 I’m currently working on a [apache cassandra course][udemy]!
+- 🌱 I’m currently learning new things everyday 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to youtube and other platforms
-- ⚡ Fun fact: I love to read and learn about technologies
+- 🥅 2020 Goals: Contribute more to youtube
+- ⚡ Fun fact: By profession i am working on cyber security topics
 
 ### Connect with me:
 
-[<img align="left" alt="totaltechnology.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.youtube.com/totaltechnology" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://www.linkedin.com/in/roni-das-08b3b866/"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,7 +43,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+-
 <!-- YOUTUBE:END -->
 
 ---
