@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aws Automation Using Boto3 Python|Remove AWS Outbound Rule From Security Group Using Boto3|Part:20](https://www.youtube.com/watch?v=3WiAAX8byTE)
 - [Aws Automation Using Boto3 Python|Change AWS Outbound Rule description Using Boto3|Part:19](https://www.youtube.com/watch?v=oFYW6cMQEmI)
 - [Aws Automation Using Boto3 Python|Create Outbound Rule For Aws Security Group Using Boto3|Part:18](https://www.youtube.com/watch?v=ld2l_f5KWBg)
 - [Aws Automation Using Boto3 Python|Remove Inbound Rule From Aws Security Group Using Boto3|Part:17](https://www.youtube.com/watch?v=5u2QYmEmfWA)
 - [Aws Automation Using Boto3 Python|Change AWS Inbound Rule Description For Using Boto3|Part:16](https://www.youtube.com/watch?v=r2FFu4NO4dc)
-- [Aws Automation Using Boto3 Python|Create Inbound Rule For AWS Security Groups Using Boto3|Part:15](https://www.youtube.com/watch?v=y31kwc1ItrY)
 <!-- YOUTUBE:END -->
 
 ---
