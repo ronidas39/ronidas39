@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python Bokeh Interactive Data Visualization Tutorial|Bokeh Plot Background Styling|Part:6](https://www.youtube.com/watch?v=eZoWfq6Sa4E)
 - [Python Bokeh Interactive Data Visualization Tutorial|Bokeh Plot Title Styling|Part:5](https://www.youtube.com/watch?v=r-uREEqv6BI)
 - [Python Bokeh Interactive Data Visualization Tutorial|How To Set Dimension Of A Bokeh Plot|Part:4](https://www.youtube.com/watch?v=_i9I3XogE-Q)
 - [Python Bokeh Interactive Data Visualization Tutorial|Display Plot Inside Jupyter Notebook|Part:3](https://www.youtube.com/watch?v=ISE3GQkicU0)
 - [Azure Sentinel Integration With Microsoft Graph ApI Using Python](https://www.youtube.com/watch?v=quE4dHF467M)
-- [Python Bokeh Interactive Data Visualization Complete Tutorial|Line Plot In Bokeh|Part:2](https://www.youtube.com/watch?v=2j8mTJQjNWw)
 <!-- YOUTUBE:END -->
 
 ---
