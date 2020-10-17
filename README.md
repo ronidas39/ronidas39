@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aws Automation Using Boto3 Python|Launch AWS Ec2 Instance With Key Pair Using Boto3 Python|Part:24](https://www.youtube.com/watch?v=Aja9MZcC-44)
 - [NEO4J|NEO4J TUTORIAL|Neo4j Python|Set Multiple Properties To Neo4j Nodes Using Apoc|PART:100](https://www.youtube.com/watch?v=pTqABT4Epmk)
 - [NEO4J|NEO4J TUTORIAL|Neo4j Python|Remove Multiple Labels From Neo4j Nodes Using Apoc|PART:99](https://www.youtube.com/watch?v=p7wy9eY6sMI)
 - [NEO4J|NEO4J TUTORIAL|Neo4j Python|Add Multiple Labels To Neo4j Nodes Using Apoc Procedure|PART:98](https://www.youtube.com/watch?v=zmKRBz_b9tg)
 - [NEO4J|NEO4J TUTORIAL|Neo4j Python|Create Multiple Neo4j Nodes From Csv Using Apoc Procedure|PART:97](https://www.youtube.com/watch?v=nV8gU8e6vE8)
-- [NEO4J|NEO4J TUTORIAL|Neo4j Python|Create Multiple New Neo4j Nodes Using Apoc Procedure|PART:96](https://www.youtube.com/watch?v=phkjltt1C_s)
 <!-- YOUTUBE:END -->
 
 ---
