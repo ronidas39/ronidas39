@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aws Automation Using Boto3 Python|Create Multiple AWS Ec2 Instances Using Boto3 Python|Part:27](https://www.youtube.com/watch?v=nlHk3mFSlAY)
 - [Aws Automation Using Boto3 Python|Get All AWS Ec2 Instance Id's Using Boto3 Python|Part:26](https://www.youtube.com/watch?v=gyiGVOkfbuk)
 - [Aws Automation Using Boto3 Python|AWS Ec2 Instance Administration Using Boto3 Python|Part:25](https://www.youtube.com/watch?v=kGlYqaUy8Wc)
 - [Aws Automation Using Boto3 Python|Launch AWS Ec2 Instance With Key Pair Using Boto3 Python|Part:24](https://www.youtube.com/watch?v=Aja9MZcC-44)
 - [NEO4J|NEO4J TUTORIAL|Neo4j Python|Set Multiple Properties To Neo4j Nodes Using Apoc|PART:100](https://www.youtube.com/watch?v=pTqABT4Epmk)
-- [NEO4J|NEO4J TUTORIAL|Neo4j Python|Remove Multiple Labels From Neo4j Nodes Using Apoc|PART:99](https://www.youtube.com/watch?v=p7wy9eY6sMI)
 <!-- YOUTUBE:END -->
 
 ---
