@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aws Automation Using Boto3 Python|Describe Key Pair For AWS Ec2 Using Boto3 Python|Part:35](https://www.youtube.com/watch?v=Ka1jnODCeiQ)
 - [Aws Automation Using Boto3 Python|Delete Key Pair For AWS Ec2 Using Boto3 Python|Part:34](https://www.youtube.com/watch?v=s6418t0gqpQ)
 - [Aws Automation Using Boto3 Python|Create Key Pair For AWS Ec2 Using Boto3 Python|Part:33](https://www.youtube.com/watch?v=rTIYRqQF2-w)
 - [Aws Automation Using Boto3 Python|Modify Security Group For AWS Ec2 Using Boto3 Python|Part:32](https://www.youtube.com/watch?v=se6BkKT5p4w)
 - [Aws Automation Using Boto3 Python|Disable AWS Ec2 Instance Termination Using Boto3 Python|Part:31](https://www.youtube.com/watch?v=HcAAN28UgzY)
-- [Aws Automation Using Boto3 Python|How To Edit AWS Ec2 Instance Type Using Boto3 Python|Part:30](https://www.youtube.com/watch?v=RIb6Vd8-6tE)
 <!-- YOUTUBE:END -->
 
 ---
