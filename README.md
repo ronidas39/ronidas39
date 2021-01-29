@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Jira Automation Using Python|Get All Jira Issues From Rest Api Using Python|Tutorial:8](https://www.youtube.com/watch?v=hkXCMfOhVeA)
 - [Jira Automation Using Python|Add Comments To Jira Issue From Rest Api Using Python|Tutorial:7](https://www.youtube.com/watch?v=mZJbw47vm2Q)
 - [Jira Automation Using Python|Add Comments To Jira Issue From Rest Api Using Python|Tutorial:6](https://www.youtube.com/watch?v=lHKhT337MXQ)
 - [Jira Automation Using Python|Get All Jira Issue Comments From Rest Api Using Python|Tutorial:5](https://www.youtube.com/watch?v=7LibeT9Kx28)
 - [Jira Automation Using Python|Add File Attachment To Jira Issue From Rest Api Using Python|Tutorial:4](https://www.youtube.com/watch?v=viQo9Dj_uX8)
-- [Jira Automation Using Python|Create Jira Users In Bulk  From Rest Api Using Python|Tutorial:3](https://www.youtube.com/watch?v=Zb3Y6_tAUPE)
 <!-- YOUTUBE:END -->
 
 ---
