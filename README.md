@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fastapi Python Complete Tutorial|How To Use Swagger Ui Documentation In Fastapi |Tutorial:5](https://www.youtube.com/watch?v=RTXjYUevuX4)
 - [Fastapi Python Complete Tutorial|How To Use Path Variable In Fastapi |Tutorial:4](https://www.youtube.com/watch?v=TBiryL7rfeA)
 - [Fastapi Python Complete Tutorial|How To Use Dynamic Routing In Fastapi |Tutorial:3](https://www.youtube.com/watch?v=UjPqvE-IvnU)
 - [Fastapi Python Complete Tutorial|How To Create Simple Fastapi App Using Python|Tutorial:2](https://www.youtube.com/watch?v=mjY6XlTLao4)
 - [Fastapi Python Complete Tutorial|Introduction To Fastapi|Tutorial:1](https://www.youtube.com/watch?v=8ZagairPUOs)
-- [Jira Automation Using Python|Change Jira Issue Status From Rest Api Using Python|Tutorial:15](https://www.youtube.com/watch?v=DRXIv-pQ1TQ)
 <!-- YOUTUBE:END -->
 
 ---
