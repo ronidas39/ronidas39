@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NEO4J TUTORIAL|Neo4j Python|Create Rest Api Using Neo4j & FastApi From Python|PART:105](https://www.youtube.com/watch?v=L_OOTp7fd1g)
 - [Fastapi Python Complete Tutorial|How To Use Debugging In Fastapi |Tutorial:8](https://www.youtube.com/watch?v=cqEOv6EEchQ)
 - [NEO4J TUTORIAL|Neo4j Python|How To Create Interactive Dashboards From Neo4j Using Python|PART:104](https://www.youtube.com/watch?v=WGTYJuFMuK8)
 - [Fastapi Python Complete Tutorial|Query Parameters In Details In Fastapi |Tutorial:7](https://www.youtube.com/watch?v=-7-cjutytbs)
 - [Cowin Api Telegram Bot To Get Real Time Vaccine Notification |Vaccine Slot Tracker Using CoWin Api](https://www.youtube.com/watch?v=mE30nMuDQjA)
-- [How To Use Cowin Api To Track Vaccine Appointment Slot Using Python and Whatsapp Twilio Api|Part:21](https://www.youtube.com/watch?v=bzj9N8bTVvg)
 <!-- YOUTUBE:END -->
 
 ---
