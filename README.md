@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NEO4J TUTORIAL|Neo4j Python|Update Node In Neo4j Graph Database Using Fastapi From Python|PART:107](https://www.youtube.com/watch?v=FYqzZYSRn-s)
 - [NEO4J TUTORIAL|Neo4j Python|Create Node In Neo4j Graph Database Using Fastapi From Python|PART:106](https://www.youtube.com/watch?v=rnepMpdfd3g)
 - [NEO4J TUTORIAL|Neo4j Python|Create Rest Api Using Neo4j & FastApi From Python|PART:105](https://www.youtube.com/watch?v=L_OOTp7fd1g)
 - [Fastapi Python Complete Tutorial|How To Use Debugging In Fastapi |Tutorial:8](https://www.youtube.com/watch?v=cqEOv6EEchQ)
 - [NEO4J TUTORIAL|Neo4j Python|How To Create Interactive Dashboards From Neo4j Using Python|PART:104](https://www.youtube.com/watch?v=WGTYJuFMuK8)
-- [Fastapi Python Complete Tutorial|Query Parameters In Details In Fastapi |Tutorial:7](https://www.youtube.com/watch?v=-7-cjutytbs)
 <!-- YOUTUBE:END -->
 
 ---
