@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Graphql Complete Tutorial With Python|Learn Graphql With Python|Weather Api Using Graphql|Part:5](https://www.youtube.com/watch?v=922M8ObzXeQ)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Csv Data In Graphql Schema|Part:4](https://www.youtube.com/watch?v=t-06qVfRJGk)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Graphene List Type Graphql|Part:3](https://www.youtube.com/watch?v=JUSC2cUs8yM)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Graphene Object Type Graphql|Part:2](https://www.youtube.com/watch?v=P1TeRz-IA8E)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Graphql Tutorial With Fastapi|part1](https://www.youtube.com/watch?v=wjA9xh0G3vQ)
-- [NEO4J TUTORIAL|Neo4j Python|Delete Node In Neo4j Graph Database Using Fastapi From Python|PART:108](https://www.youtube.com/watch?v=lHcRvdm20Jw)
 <!-- YOUTUBE:END -->
 
 ---
