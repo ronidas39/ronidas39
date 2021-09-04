@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Graphql Complete Tutorial With Python|Learn Graphql With Python|Interface In Graphene Graphql|Part:7](https://www.youtube.com/watch?v=Wika2yGhS2Y)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Metaclass In Graphene Graphql|Part:6](https://www.youtube.com/watch?v=IYsaEBYa1-k)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Weather Api Using Graphql|Part:5](https://www.youtube.com/watch?v=922M8ObzXeQ)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Csv Data In Graphql Schema|Part:4](https://www.youtube.com/watch?v=t-06qVfRJGk)
 - [Graphql Complete Tutorial With Python|Learn Graphql With Python|Graphene List Type Graphql|Part:3](https://www.youtube.com/watch?v=JUSC2cUs8yM)
-- [Graphql Complete Tutorial With Python|Learn Graphql With Python|Graphene Object Type Graphql|Part:2](https://www.youtube.com/watch?v=P1TeRz-IA8E)
 <!-- YOUTUBE:END -->
 
 ---
