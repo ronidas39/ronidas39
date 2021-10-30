@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Elasticsearch Complete Tutorial Python|Introduction To Elasticsearch Using Python|Tutorial:6](https://www.youtube.com/watch?v=LchUgSMPDRI)
 - [Elasticsearch Complete Tutorial Python|Delete Elasticsearch Index In Bulk Using Python|Tutorial:5](https://www.youtube.com/watch?v=JyrKZo8niMA)
 - [Elasticsearch Complete Tutorial Python|Search & Delete Elasticsearch Index Using Python|Tutorial:4](https://www.youtube.com/watch?v=5lG_ZLFMMIo)
 - [Elasticsearch Complete Tutorial With Python|Search Elasticsearch Index Using Python|Tutorial:3](https://www.youtube.com/watch?v=uzBf7Ue4RTE)
 - [Elasticsearch Complete Tutorial With Python|How To Create Elasticsearch Index In Bulk|Tutorial:2](https://www.youtube.com/watch?v=Fc7pnyj-ITM)
-- [Elasticsearch Complete Tutorial With Python|Create Elasticsearch Index Using Python|Tutorial:1](https://www.youtube.com/watch?v=w3S7mgFsC7U)
 <!-- YOUTUBE:END -->
 
 ---
