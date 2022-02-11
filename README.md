@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Apache Airflow Complete Tutorial With Python |Email Notification Using Apache Airflow|Tutorial 2](https://www.youtube.com/watch?v=ztMRyBaO4G0)
 - [Telegram Bot  Complete Tutorial With Python|Introduction To Telegram Bot API &amp; Botfather|Tutorial 1](https://www.youtube.com/watch?v=M-je945gPTo)
 - [Apache Airflow Complete Tutorial With Python |Introduction to Apache Airflow|Tutorial 1](https://www.youtube.com/watch?v=BqDgpxk8aRs)
 - [Automate Active Directory|Active Directory Bulk User Creation From Csv File Using Python|Part:14](https://www.youtube.com/watch?v=HG0dZk4FH8Y)
 - [NEO4J TUTORIAL|Neo4j Python|How To Use NEO4J apoc.do.case  Procedure|PART:110](https://www.youtube.com/watch?v=ET1DeRhUC-o)
-- [NEO4J TUTORIAL|Neo4j Python|How To Use NEO4J apoc.case  Procedure|PART:109](https://www.youtube.com/watch?v=2T7l5x7-eEU)
 <!-- YOUTUBE:END -->
 
 ---
